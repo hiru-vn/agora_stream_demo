@@ -1,7 +1,7 @@
 
-import 'package:agorartm/screen/SplashScreen.dart';
-import 'package:agorartm/screen/home.dart';
-import 'package:agorartm/screen/loginScreen.dart';
+import 'package:demo_agora/screen/SplashScreen.dart';
+import 'package:demo_agora/screen/home.dart';
+import 'package:demo_agora/screen/loginScreen.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:shared_preferences/shared_preferences.dart';

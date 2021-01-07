@@ -1,3 +1,4 @@
+Updated 7/1/2021
 # Agora Live Broadcasting Feature like Instagram
 This is made in flutter framework and with Firebase as backend. The video SDK used is <strong>Agora</strong>
 

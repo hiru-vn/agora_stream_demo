@@ -1,6 +1,6 @@
 {
-    "name": "agorartm",
-    "short_name": "agorartm",
+    "name": "demo_agora",
+    "short_name": "demo_agora",
     "start_url": ".",
     "display": "minimal-ui",
     "background_color": "#0175C2",

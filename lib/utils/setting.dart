@@ -1,2 +1,2 @@
 // Agora AppId
-const APP_ID = '<Add your App ID Here>';
+const APP_ID = 'ac814ee10683441b9fe892d3035d4e6a';

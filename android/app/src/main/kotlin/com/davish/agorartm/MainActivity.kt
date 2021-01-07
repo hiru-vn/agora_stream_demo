@@ -1,4 +1,4 @@
-package com.davish.agorartm
+package app.chatdemoagora.com
 
 import io.flutter.embedding.android.FlutterActivity
 

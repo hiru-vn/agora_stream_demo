@@ -1,5 +1,5 @@
-import 'package:agorartm/firebaseDB/auth.dart';
-import 'package:agorartm/screen/regScreen.dart';
+import 'package:demo_agora/firebaseDB/auth.dart';
+import 'package:demo_agora/screen/regScreen.dart';
 import 'package:flutter/material.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 

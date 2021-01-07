@@ -1,7 +1,7 @@
 import 'dart:async';
 
-import 'package:agorartm/firebaseDB/auth.dart';
-import 'package:agorartm/models/live.dart';
+import 'package:demo_agora/firebaseDB/auth.dart';
+import 'package:demo_agora/models/live.dart';
 import 'package:cached_network_image/cached_network_image.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:flare_flutter/flare_controls.dart';
@@ -258,8 +258,6 @@ class _HomePageState extends State<HomePage> {
                                     end: Alignment.centerRight
                                 ),
                               ),
-
-
                             ),
                             Container(
                                 decoration: new BoxDecoration(
